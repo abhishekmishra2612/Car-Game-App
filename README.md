@@ -1,8 +1,11 @@
 # CAR-GAME-APP
 
 Developed a dynamic car game app using the tools HTML5, CSS & JavaScript.
+
 This game will start when we click on the middle red button(section) of window(screen) just after clicking on the red middle button that red button will disappear and the Game will start.
+
 In this game we have to avoid the collision between your car and other car( the random cars that moving from up to down randomly through random line on the road) if there is any collision takes place between your car and other car the game will over.
+
 While playing the game a score section appear near the top left of the screen, the score keeps updating while playing the game, when game will over your final score will apear on the middle red button, and if we click on that red button again our game will restart again.
 
 ## Screen recording video of this car-game app.
